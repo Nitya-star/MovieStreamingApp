@@ -1,0 +1,9 @@
+button {
+    margin: 0.25em 0em;
+}
+
+.movie-grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 1rem;
+}
